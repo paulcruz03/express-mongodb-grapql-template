@@ -1,6 +1,6 @@
 # Express Graphql MongoDB App Template
 
-## First You need NPM or Yarn for installing dependencies
+### First You need NPM or Yarn for installing dependencies
 
 ``` bash
 #install dependencies
